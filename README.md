@@ -31,9 +31,9 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
 </p>
-
 <table style="width:100%;">
   <tr>
+    <p align="center">
     <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
