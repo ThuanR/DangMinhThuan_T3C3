@@ -32,7 +32,7 @@
   <tr>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="=https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47fyylg2tczmzjzxwzy30o080dnfhn29pmati0orux&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
