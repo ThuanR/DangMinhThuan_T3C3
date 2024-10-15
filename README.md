@@ -5,7 +5,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [HUFLIT](https://utop.io/).
+> ✍ I'm a software developer at [HUFLIT](https://huflit.edu.vn).
 
 
 ## 📫 How to reach me:
