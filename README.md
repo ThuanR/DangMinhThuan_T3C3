@@ -7,6 +7,9 @@
 
 > ✍ I'm a software developer at [HUFLIT](https://huflit.edu.vn).
 
+<p align="center">
+<img src="https://i0.wp.com/brunomarsimpersonator.com/wp-content/uploads/2024/08/lady-gaga-bruno-mars.jpg?w=1392&ssl=1"/>
+</p>
 
 ## 📫 How to reach me:
 
