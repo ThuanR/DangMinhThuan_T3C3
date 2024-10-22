@@ -1,6 +1,6 @@
                                                                                                                                                                 
 
-<h2 align="center">Hi 👋, I'm DangMinhThuan_T3C3 aka Thuanz</h2>
+<h2 align="center">Hi 👋, I'm Thuan</h2>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
