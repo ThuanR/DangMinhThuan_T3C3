@@ -7,7 +7,7 @@
 
 > ✍ I'm a software developer at [HUFLIT](https://huflit.edu.vn).
 
-## 📫 How to reach me:
+## 📫 How to reach me: minhthuan632004@gmail.com
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100035444002821" alt="Facebook">
